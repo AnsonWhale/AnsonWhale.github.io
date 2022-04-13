@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/AnsonWhale/AnsonWhale.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Index](https://github.com/AnsonWhale/AnsonWhale.github.io/edit/main/index.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
