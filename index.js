@@ -1,7 +1,12 @@
 //create some buttons to navigate to test sites
-const button = document.createElement('button');
-const link = 'test1.html'
+const testButton = document.createElement('button');
+const link = 'test1.html';
 
-button.addEventListener('click',window.open(link));
+testButton.innerHTML = 'Test 1';
+testButton.addEventListener('click', openTest );
 
-document.body.appendChild(button);
+document.body.appendChild(testButton);
+
+function openTest(){
+    window.open(link)
+}
