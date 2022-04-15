@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.info-node{
+    padding: 10px;
+    border-style: solid;
+    border-radius: 25px;
+}
+
+.center-node{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
